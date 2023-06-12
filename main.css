@@ -1,0 +1,64 @@
+/* styles.css */
+/* main.css */
+
+h1 {
+    color: blue; /* Change the color to your desired value */
+}
+
+h2 {
+    color: rgb(252, 48, 48); /* Change the color to your desired value */
+}
+
+h3 {
+    color: rgb(255, 255, 255); /* Change the color to your desired value */
+}
+
+.toad {
+    color: rgb(211, 105, 211); /* Change the color to your desired value */
+}
+
+.secret {
+    color: rgb(242, 225, 195); /* Change the color to your desired value */
+}
+
+li {
+    color: teal; /* Change the color to your desired value */
+}
+
+body {
+    background-image: url("https://wallpapercave.com/wp/wp3188020.jpg");
+    /* background-color: hsl(0, 0%, 100%); */
+    text-align: center;
+}
+
+/* main.css */
+
+h1 {
+    color: rgb(236, 17, 17);
+}
+
+.toad {
+    font-family: 'Times New Roman';
+}
+
+.secret {
+    opacity: .5;
+}
+
+li {
+    list-style-type: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+    color:rgb(253, 253, 253);
+}
+
+table th,
+table td {
+    border: .5px solid rgb(233, 213, 213);
+    padding: 10px;
+    text-align: center;
+}
